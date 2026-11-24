@@ -4,6 +4,12 @@
 
 ## <h2>💫 About Me:</h2>
 
+I'm a Software Developer with a Diploma in Information Technology (Software Development), passionate about building practical and user-focused web applications.
+
+I have experience developing full-stack applications using React.js, Node.js, JavaScript, MySQL, and PostgreeSQL. I enjoy turning ideas into functional applications and solving real-world problems through software development.
+
+I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experience using Amazon Web Service (AWS), Docker and Terraform. I've worked with AWS services such as EC2, ECS, ECR, VPC and Application Load Balancer to provision infrastructure and deploy containerised applications. I'm also developing my skills in CI/CD, focusing on automating application builds and deployments using AWS CodePipeline and CodeBuild.
+
 <!--
 **Sthera30/sthera30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
