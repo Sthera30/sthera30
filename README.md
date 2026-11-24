@@ -10,6 +10,8 @@ I have experience developing full-stack applications using React.js, Node.js, Ja
 
 I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experience using Amazon Web Service (AWS), Docker and Terraform. I've worked with AWS services such as EC2, ECS, ECR, VPC and Application Load Balancer to provision infrastructure and deploy containerised applications. I'm also developing my skills in CI/CD, focusing on automating application builds and deployments using AWS CodePipeline and CodeBuild.
 
+## <h3>What i'm currently focused on::</h3>
+
 <!--
 **Sthera30/sthera30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
