@@ -70,6 +70,16 @@ I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experi
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sthera30&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sthera30&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 <!--
 **Sthera30/sthera30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
