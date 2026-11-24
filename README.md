@@ -6,11 +6,11 @@
 
 I'm a Software Developer with a Diploma in Information Technology (Software Development), passionate about building practical and user-focused web applications.
 
-I have experience developing full-stack applications using React.js, Node.js, JavaScript, MySQL, and PostgreeSQL. I enjoy turning ideas into functional applications and solving real-world problems through software development.
+I have experience developing full-stack applications using React.js, Node.js, JavaScript, MySQL, and PostgreSQL. I enjoy turning ideas into functional applications and solving real-world problems through software development.
 
-I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experience using Amazon Web Service (AWS), Docker and Terraform. I've worked with AWS services such as EC2, ECS, ECR, VPC and Application Load Balancer to provision infrastructure and deploy containerised applications. I'm also developing my skills in CI/CD, focusing on automating application builds and deployments using AWS CodePipeline and CodeBuild.
+I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experience using Amazon Web Services (AWS), Docker and Terraform. I've worked with AWS services such as EC2, ECS, ECR, VPC and Application Load Balancer to provision infrastructure and deploy containerised applications. I'm also developing my skills in CI/CD, focusing on automating application builds and deployments using AWS CodePipeline and CodeBuild.
 
-## <h3>What i'm currently focused on:</h3>
+## <h3>What I'm Currently Focused On:</h3>
 
 - Building full-stack web applications.
 - Provisioning and deploying cloud infrastructure using AWS and Terraform
@@ -18,6 +18,15 @@ I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experi
 - Learning and implementing CI/CD pipelines using AWS CodePipeline and CodeBuild
 
 ## <h3>🌐 Socials:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sirtembekile-tini-4a374721a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.tiktok.com/@sthe_digital_agency" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
 
 <!--
 **Sthera30/sthera30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
