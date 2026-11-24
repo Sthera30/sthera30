@@ -72,11 +72,11 @@ I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experi
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Sthera30&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sthera30&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
