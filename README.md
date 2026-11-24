@@ -12,6 +12,11 @@ I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experi
 
 ## <h3>What i'm currently focused on::</h3>
 
+- Building full-stack web applications.
+- Provisioning and deploying cloud infrastructure using AWS and Terraform
+- Containerising applications using Docker
+- Learning and implementing CI/CD pipelines using AWS CodePipeline and CodeBuild
+
 <!--
 **Sthera30/sthera30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
