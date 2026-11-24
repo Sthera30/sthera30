@@ -1,4 +1,6 @@
-## Hey 👋, I'm Sirtembekile Tini 
+## <h1 align="center">Hey 👋, I'm Sirtembekile Tini</h1>
+
+## <h3 align="center">Software Developer | DevOps Engineer</h3>
 
 <!--
 **Sthera30/sthera30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
