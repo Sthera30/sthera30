@@ -17,6 +17,8 @@ I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experi
 - Containerising applications using Docker
 - Learning and implementing CI/CD pipelines using AWS CodePipeline and CodeBuild
 
+## <h3>🌐 Socials:</h3>
+
 <!--
 **Sthera30/sthera30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
