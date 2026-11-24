@@ -10,7 +10,7 @@ I have experience developing full-stack applications using React.js, Node.js, Ja
 
 I'm also expanding my skills in Cloud Computing and DevOps, with hands-on experience using Amazon Web Service (AWS), Docker and Terraform. I've worked with AWS services such as EC2, ECS, ECR, VPC and Application Load Balancer to provision infrastructure and deploy containerised applications. I'm also developing my skills in CI/CD, focusing on automating application builds and deployments using AWS CodePipeline and CodeBuild.
 
-## <h3>What i'm currently focused on::</h3>
+## <h3>What i'm currently focused on:</h3>
 
 - Building full-stack web applications.
 - Provisioning and deploying cloud infrastructure using AWS and Terraform
